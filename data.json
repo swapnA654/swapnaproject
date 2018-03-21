@@ -1,0 +1,33 @@
+{
+  "basics":{
+    "photo":"img_lights.jpg",
+    "name":"swapna",
+    "email":"swapnasuma83@gmail.com",
+    "mobile":"9618097316"
+  },
+  "education":[
+    {
+      "course":"B.Tech(computer science and engineering)",
+      "college":["g.pulaiah college of engineering and technology",
+      "2017-2019",
+      "70"
+    ]
+  },
+  {
+  "course":"intermediate(mpc)",
+  "college":["narayana junior college",
+    "2014-2016",
+    "70"
+  ]
+},
+
+{
+"course":"ssc",
+"college":["narayana school",
+  "2012-2013",
+  "70"
+
+  ]
+  }
+]
+}
