@@ -8,26 +8,39 @@
   "education":[
     {
       "course":"B.Tech(computer science and engineering)",
-      "college":["g.pulaiah college of engineering and technology",
+      "college":["G.Pulaiah College Of Engineering and Technology",
       "2017-2019",
       "70"
     ]
   },
   {
-  "course":"intermediate(mpc)",
-  "college":["narayana junior college",
+  "course":"Intermediate(mpc)",
+  "college":["Narayana junior college",
     "2014-2016",
     "70"
   ]
 },
-
 {
 "course":"ssc",
-"college":["narayana school",
+"college":["Golden Bells English Medium school",
   "2012-2013",
   "70"
 
   ]
+  }
+],
+"skills":[
+  {
+    "name":"web and internet technologies",
+    "value":"HTML,css"
+  },
+  {
+    "name":"Operating system",
+    "value":"Linux,windows"
+  },
+  {
+    "name":"programming anguages",
+    "value":"c++,java,c"
   }
 ]
 }

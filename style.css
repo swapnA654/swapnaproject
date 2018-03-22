@@ -9,7 +9,7 @@
   border: 2px solid #000;
   padding: 5px;
   margin: 5px 3px 1px 10px;
-  background-color: Dodgerblue;
+  background-color: ;
 
 }
 .right{
@@ -17,7 +17,7 @@
   border: 2px solid #000;
   padding: 3px;
   margin: 5px;
-  background-color: violet;
+  background-color: ;
 }
 #name{
   color: #fff;
@@ -50,7 +50,7 @@ h2{
     border: 2px solid #000;
     padding-left: 5px;
     margin: 5px 3px 1px 10px;
-    background-color: pink;
+    background-color: ;
 
   }
   .right{
@@ -58,7 +58,7 @@ h2{
     border: 2px solid #000;
     padding: 3px;
     margin: 5px;
-    background-color: blue;
+    background-color: ;
   }
   #name{
     color: #fff;
@@ -94,7 +94,7 @@ h2{
   border: 2px solid #000;
   padding-left: 5px;
   margin: 5px 3px 1px 10px;
-  background-color: Dodgerblue;
+  background-color: ;
 
 }
 
@@ -103,7 +103,7 @@ h2{
   border: 2px solid #000;
   padding-right: 3px;
   margin: 5px;
-  background-color: violet;
+  background-color: ;
 
 }
 #name{
@@ -140,7 +140,7 @@ h2{
   border: 2px solid #000;
   padding-left: 5px;
   margin: 5px 3px 1px 10px;
-  background-color: pink;
+  background-color: violet;
 
 }
 
@@ -149,7 +149,7 @@ h2{
   border: 2px solid #000;
   padding-right: 3px;
   margin: 5px;
-  background-color: purple;
+  background-color: violet;
 
 }
 #name{
